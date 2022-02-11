@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Víctor",
+      "empresa": "Pengyi Labs Costa Rica S.A.",
+      "email": "invoices@pengyilabs.io",
+      "telefono": "03516708539",
+      "notas": "hey",
+      "id": 1
+    }
+  ]
 }
